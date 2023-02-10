@@ -20,3 +20,8 @@ generated/
 #VS Code
 .factorypath
 .project
+
+**/.terraform/*
+*.tfstate
+crash.log
+*.tfstate.*
